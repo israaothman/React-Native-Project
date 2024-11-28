@@ -1,3 +1,3 @@
 # React-Native-Project
 
-![flower](./flower.png)
+![flower](./flower.jpg)
